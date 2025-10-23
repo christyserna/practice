@@ -1,1 +1,68 @@
+//practice for question 1 on our classwork 4
+
+#include <math.h> //required header file
+
+int main() {
+
+float DISCOUNT_RATE, originalPrice, 
+
+printf("Give us a number whose square root we can calculate: ");
+scanf(----); //how should i be using -lm & the sqrt() function...
+
+return 0;
+}
+
+
+//practice for question 2 of classwork 4
+
+#include <math.h> //?
+#define (value = 0.10)
+
+int  main() {
+
+float DISCOUNT_RATE = value, origPrice;
+
+printf("What is the original price of your item: ");
+scanf(&f, &origPrice); //?
+
+printf("What discount amount will you be applying: ")
+scanf(&f,-----); //?
+
+printf("The final price of your item is: "); //????
+
+return 0;
+}
+
+
+//practice for question 3 of classwork 4
+
+int main() {
+
+float FPNum1, FPNum2;
+
+
+printf("Please provide one of two floating-point numbers: )";
+scanf(%f, &FPNum1);
+
+printf("Please provide two of two floating-point numbers: )";
+scanf(%f, &FPNum2);
+
+printf("The sum of the two numbers you chose is: ");
+scanf(-----); //2 deci places
+
+printf("the product of the two numbers you chose is: )";
+scanf(----); //3 deci places
+
+return 0;
+}
+
+
+
+//practice for question 4 of classwork 4
+
+??
+
+// practice for question 5 of classwork 4
+
+??
 
