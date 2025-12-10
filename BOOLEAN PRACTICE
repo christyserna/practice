@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+#define FALSE 0
+#define TRUE 1
+
+
+int main() {
+
+printf("false: %d true %d : ", FALSE, TRUE};
+
+return 0;
+}
+
+
+
+int main() {
+
+enum bool {false, true};
+enum bool x = true;
+enum bool y = true;
+
+printf("%d", x};
+printf("%d", y};
+
+return 0;
+}
+
+
+
+int main() {
+
+typedef enum {false, true} BOOL;
+BOOL x = true;
+BOOL y = false;
+
+printf("%d", x};
+printf("%d", y};
+
+return 0;
+}
